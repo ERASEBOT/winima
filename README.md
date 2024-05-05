@@ -8,6 +8,7 @@ And I beg you, DO NOT PUT WINIMA AS YOUR OWN PROJECT! This is fully mine project
 # What on earth are 1.0 and 1.1 releases, if it do not contain anything related to help?
 Those releases are tests and made to test my update system. You can make it better too!
 Do not use these releases as main WINima files, please.
+TRUE first release of WINima will be 1.10, 1.11 and so on. In other words, 1.1X and so on.
 
 # Commands
 In future I'll most likely add more commands, but here's my current plan on commands:
